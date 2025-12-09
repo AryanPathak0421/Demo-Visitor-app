@@ -14,5 +14,7 @@ export default function Footer() {
         </div>
       </div>
     </footer>
+    // footer React---
+    // Next.js
   );
 }
