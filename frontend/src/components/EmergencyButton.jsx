@@ -9,6 +9,8 @@ export default function EmergencyButton() {
     }
   }
 
+  //return
+
   return (
     <button
       onClick={handleEmergency}
