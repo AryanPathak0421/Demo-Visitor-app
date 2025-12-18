@@ -1,3 +1,5 @@
+// Place.jsx
+
 import React, { createContext, useContext, useEffect, useState } from 'react';
 import { fetchPlaces } from '../api';
 
